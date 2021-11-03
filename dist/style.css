@@ -1,0 +1,17 @@
+h1 {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  letter-spacing: 15px;
+  font-size: 10vmin;
+  font-family: "Montserrat";
+  text-transform: uppercase;
+  color: #ad8a76;
+  opacity: 1;
+}
+
+.graphic__simulation{
+}
