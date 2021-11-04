@@ -1,17 +1,48 @@
 h1 {
   position: absolute;
-  top: 90%;
+  top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
   text-align: center;
   letter-spacing: 15px;
   font-size: 10vmin;
-  font-family: "Montserrat";
-  text-transform: uppercase;
-  color: #ad8a76;
+  font-family: 'Heebo', sans-serif;
+  color: #539db0;
+  opacity: 1;
+}
+
+h2 {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  letter-spacing: 6px;
+  font-size: 5vmin;
+  font-family: 'Heebo', sans-serif;
+  color: #539db0;
+  opacity: 1;
+}
+
+h3 {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  letter-spacing: 8px;
+  font-size: 4vmin;
+  font-family: 'Heebo', sans-serif;
+  color: #539db0;
   opacity: 1;
 }
 
 .graphic__simulation{
+}
+
+body{
+  background-color: #003249;
 }

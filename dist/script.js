@@ -13,7 +13,7 @@ controls.target = new THREE.Vector3(0, 0, 20);
 controls.update();
 
 var scene = new THREE.Scene();
-scene.background = new THREE.Color( 0x202629,);
+scene.background = new THREE.Color( 0x003249,);
 
 var globalMaterial = new THREE.SpriteMaterial({
   map: new THREE.CanvasTexture(generateSprite()),
