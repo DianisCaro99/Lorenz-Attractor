@@ -22,7 +22,7 @@ h2 {
   transform: translate(-50%, -50%);
   width: 100%;
   text-align: center;
-  letter-spacing: 6px;
+  letter-spacing: 1px;
   font-size: 5vmin;
   font-family: 'Quicksand', sans-serif;
   color: #539db0;
@@ -36,9 +36,10 @@ h3 {
   transform: translate(-50%, -50%);
   width: 100%;
   text-align: center;
-  letter-spacing: 8px;
+  letter-spacing: 1px;
   font-size: 4vmin;
   font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
   color: #539db0;
   opacity: 1;
 }
