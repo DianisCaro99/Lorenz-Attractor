@@ -1,11 +1,11 @@
 var renderer = new THREE.WebGLRenderer({ });
-renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setSize(window.innerWidth, window.innerHeight*0.80);
 //renderer.setClearColor( 0x202629, 1);
 
 
 document.body.appendChild(renderer.domElement);
 
-var camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.1, 1000);
+var camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.1, 2000);
 camera.position.set(0, 0, 75);
 
 var controls = new THREE.OrbitControls(camera, renderer.domElement);
