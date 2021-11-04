@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 h1 {
   position: absolute;
@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   letter-spacing: 10px;
   font-size: 10vmin;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 800;
   color: #539db0;
   opacity: 1;
@@ -24,7 +24,7 @@ h2 {
   text-align: center;
   letter-spacing: 1px;
   font-size: 5vmin;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   color: #539db0;
   opacity: 1;
 }
@@ -38,7 +38,7 @@ h3 {
   text-align: center;
   letter-spacing: 1px;
   font-size: 4vmin;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 700;
   color: #539db0;
   opacity: 1;
