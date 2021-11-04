@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
 h1 {
   position: absolute;
   top: 80%;
@@ -5,9 +7,10 @@ h1 {
   transform: translate(-50%, -50%);
   width: 100%;
   text-align: center;
-  letter-spacing: 15px;
+  letter-spacing: 10px;
   font-size: 10vmin;
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 800;
   color: #539db0;
   opacity: 1;
 }
@@ -21,7 +24,7 @@ h2 {
   text-align: center;
   letter-spacing: 6px;
   font-size: 5vmin;
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: #539db0;
   opacity: 1;
 }
@@ -35,7 +38,7 @@ h3 {
   text-align: center;
   letter-spacing: 8px;
   font-size: 4vmin;
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: #539db0;
   opacity: 1;
 }
