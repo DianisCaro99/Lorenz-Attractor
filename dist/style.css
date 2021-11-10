@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 h1 {
   position: absolute;
@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   letter-spacing: 10px;
   font-size: 10vmin;
-  font-family: 'Varela Round', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-weight: 800;
   color: #F7F7BE;
   opacity: 1;
@@ -24,7 +24,7 @@ h2 {
   text-align: center;
   letter-spacing: 1px;
   font-size: 5vmin;
-  font-family: 'Varela Round', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: #539db0;
   opacity: 1;
 }
@@ -38,7 +38,7 @@ h3 {
   text-align: center;
   letter-spacing: 1px;
   font-size: 4vmin;
-  font-family: 'Varela Round', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-weight: 700;
   color: #539db0;
   opacity: 1;
@@ -48,5 +48,5 @@ h3 {
 }
 
 body{
-  background-color: #003249;
+  background-color: #1E2832;
 }

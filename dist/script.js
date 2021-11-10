@@ -13,7 +13,7 @@ controls.target = new THREE.Vector3(0, 0, 20);
 controls.update();
 
 var scene = new THREE.Scene();
-scene.background = new THREE.Color( 0x003249,);
+scene.background = new THREE.Color( 0x1E2832);
 
 var globalMaterial = new THREE.SpriteMaterial({
   map: new THREE.CanvasTexture(generateSprite()),
@@ -108,8 +108,8 @@ function generateSprite() {
 
   var context = canvas.getContext('2d');
   var gradient = context.createRadialGradient(canvas.width / 2, canvas.height / 2, 0, canvas.width / 2, canvas.height / 2, canvas.width / 2);
-  gradient.addColorStop(0, 'rgba(255,255,255,0.5)');
-  gradient.addColorStop(0.1, 'rgba(223,178,100,1)');
+  gradient.addColorStop(0, 'rgba(254, 149, 1, 0.5)');
+  gradient.addColorStop(0.1, 'rgba(254, 149, 1, 1)');
   //gradient.addColorStop(0.95, 'rgba(173,138,118,1)');
   gradient.addColorStop(1, 'rgba(0,0,0,1)');
 
