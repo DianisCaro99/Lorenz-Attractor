@@ -108,8 +108,8 @@ function generateSprite() {
 
   var context = canvas.getContext('2d');
   var gradient = context.createRadialGradient(canvas.width / 2, canvas.height / 2, 0, canvas.width / 2, canvas.height / 2, canvas.width / 2);
-  gradient.addColorStop(0, 'rgba(254, 149, 1, 0.5)');
-  gradient.addColorStop(0.1, 'rgba(254, 149, 1, 1)');
+  gradient.addColorStop(0, 'rgba(255,255,255,0.5)');
+  gradient.addColorStop(0.1, 'rgba(1, 75, 98,1)');
   //gradient.addColorStop(0.95, 'rgba(173,138,118,1)');
   gradient.addColorStop(1, 'rgba(0,0,0,1)');
 
