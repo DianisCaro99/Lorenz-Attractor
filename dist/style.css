@@ -11,22 +11,7 @@ h1 {
   font-size: 10vmin;
   font-family: 'Inter', sans-serif;
   font-weight: 800;
-  color: #FE9501;
-  opacity: 1;
-}
-
-h1-white {
-  position: absolute;
-  top: 80%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
-  text-align: center;
-  letter-spacing: 10px;
-  font-size: 10vmin;
-  font-family: 'Inter', sans-serif;
-  font-weight: 800;
-  color: #FFF7EB;
+  color: #11A1BB;
   opacity: 1;
 }
 
@@ -54,8 +39,8 @@ h3 {
   letter-spacing: 1px;
   font-size: 4vmin;
   font-family: 'Inter', sans-serif;
-  font-weight: 700;
-  color: #11A1BB;
+  font-weight: 600;
+  color: #FFF7EB;
   opacity: 1;
 }
 
