@@ -15,6 +15,21 @@ h1 {
   opacity: 1;
 }
 
+h1-white {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  letter-spacing: 10px;
+  font-size: 10vmin;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  color: #FFF7EB;
+  opacity: 1;
+}
+
 h2 {
   position: absolute;
   top: 90%;
